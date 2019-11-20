@@ -1,6 +1,10 @@
-Author : Choongin Lee at Korea University.
-Contact : choonginlee at gmail.com
+### Author
+Choongin Lee at Korea University.
 
+### Contact
+choonginlee at gmail.com
+
+### Copyleft
 Copyright (c) 2019 Choongin Lee
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
